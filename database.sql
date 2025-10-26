@@ -4,8 +4,8 @@
 -- ===========================
 
 -- 1. Database
-CREATE DATABASE IF NOT EXISTS simple_virtualbank;
-USE simple_virtualbank;
+CREATE DATABASE IF NOT EXISTS virtualbank;
+USE virtualbank;
 
 -- ===========================
 -- 2. Users Table
