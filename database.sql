@@ -1,5 +1,5 @@
 -- ===========================
--- Simple VirtualBank Database
+-- VirtualBank Database
 -- Structure + Seed Data
 -- ===========================
 
